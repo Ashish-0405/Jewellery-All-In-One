@@ -239,7 +239,7 @@ export const FeaturesSection = () => {
         >
           {[
             { value: "19+", label: "App Features" },
-            { value: "10+", label: "CRM Features" },
+            { value: "5+", label: "CRM Features" },
             { value: "13+", label: "Admin Controls" },
             { value: "100%", label: "Customizable" },
           ].map((stat, index) => (

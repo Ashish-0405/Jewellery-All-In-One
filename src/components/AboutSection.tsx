@@ -4,7 +4,7 @@ import { Award, Users, Clock, Zap } from "lucide-react";
 import logo from "@/assets/logo.jpg";
 
 const stats = [
-  { icon: Award, value: "10+", label: "Years Experience" },
+  { icon: Award, value: "5+", label: "Years Experience" },
   { icon: Users, value: "20+", label: "Happy Clients" },
   { icon: Clock, value: "24/7", label: "Support" },
   { icon: Zap, value: "99.9%", label: "Uptime" },
