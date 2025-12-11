@@ -100,7 +100,7 @@ export const DemoBookingModal = ({ isOpen, onClose }: DemoBookingModalProps) => 
             animate={{ opacity: 1, scale: 1, y: 0 }}
             exit={{ opacity: 0, scale: 0.9, y: 20 }}
             transition={{ type: "spring", damping: 25 }}
-            className="relative w-full max-w-2xl max-h-[90vh] overflow-y-auto bg-card rounded-3xl shadow-luxury"
+            className="relative w-full max-w-2xl max-h-[90vh] overflow-y-auto bg-card rounded-3xl shadow-luxury [&::-webkit-scrollbar]:hidden [scrollbar-width:none]"
             onClick={(e) => e.stopPropagation()}
           >
             {/* Header */}

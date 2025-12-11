@@ -91,7 +91,7 @@ export const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-gold shrink-0 mt-0.5" />
                 <span className="text-sm">
-                  306 GGolden Square, Nikol
+                  306 Golden Square, Nikol
                   <br />
                   Ahmedabad, India 382350
                 </span>
