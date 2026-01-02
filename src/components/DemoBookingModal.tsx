@@ -6,9 +6,9 @@ import { toast } from "sonner";
 import emailjs from "@emailjs/browser";
 
 // EmailJS Configuration
-const EMAILJS_SERVICE_ID = "service_jd8eumb";
+const EMAILJS_SERVICE_ID = "service_ja62xmr";
 const EMAILJS_TEMPLATE_ID = "template_yhkwyqb";
-const EMAILJS_PUBLIC_KEY = "c_vt0ngk9q80jrTT5";
+const EMAILJS_PUBLIC_KEY = "jixmmX_77as8dqQd-";
 
 interface DemoBookingModalProps {
   isOpen: boolean;
